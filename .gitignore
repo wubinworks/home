@@ -1,9 +1,6 @@
-#--------------------------#
-# Wubinworks home          #
-#--------------------------#
+# Wubinworks home
 
 *.bak
-**.bak.**
 *.bat
 *.cmd
 *.dll
